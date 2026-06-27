@@ -33,7 +33,7 @@ make -j$(nproc)
 ## Test
 ```bash
 echo 'PING'           | nc 127.0.0.1 6380   # +PONG
-echo 'SET name Sohel' | nc 127.0.0.1 6380   # +OK
+echo 'SET name Moonlight' | nc 127.0.0.1 6380   # +OK
 echo 'GET name'       | nc 127.0.0.1 6380   # $5 Rahul
 echo 'EXPIRE name 5'  | nc 127.0.0.1 6380   # :1
 echo 'DEL name'       | nc 127.0.0.1 6380   # :1
