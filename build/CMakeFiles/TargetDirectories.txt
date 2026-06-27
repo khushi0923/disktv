@@ -1,0 +1,5 @@
+/home/moonlight2309/disktv/build/CMakeFiles/kv_core.dir
+/home/moonlight2309/disktv/build/CMakeFiles/distkv.dir
+/home/moonlight2309/disktv/build/CMakeFiles/bench.dir
+/home/moonlight2309/disktv/build/CMakeFiles/edit_cache.dir
+/home/moonlight2309/disktv/build/CMakeFiles/rebuild_cache.dir

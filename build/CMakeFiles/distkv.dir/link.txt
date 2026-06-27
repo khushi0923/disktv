@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/distkv.dir/src/server.cpp.o -o distkv  libkv_core.a -lpthread 
